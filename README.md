@@ -6,6 +6,7 @@
 
 | # | Title | Difficulty | Skills |
 |---| ----- | ---------- | ------ |
+| 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | Easy |  |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array) | Easy |  |
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii) | Easy |  |

@@ -1,5 +1,16 @@
 [
   {
+    "id": 88,
+    "title": "Merge Sorted Array",
+    "title_slug": "merge-sorted-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2620,
     "title": "Counter",
     "title_slug": "counter",
