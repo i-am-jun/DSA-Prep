@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run LeetSyncMaster
-        uses: i-am-jun/LeetCode-Synchronizer@v1.1.0
+        uses: i-am-jun/DSA-Prep
         with:
           GITHUB_TOKEN: ${{ github.token }}
           LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
