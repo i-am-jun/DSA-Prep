@@ -18,6 +18,13 @@
     "skills": []
   },
   {
+    "id": 2634,
+    "title": "Filter Elements from Array",
+    "title_slug": "filter-elements-from-array",
+    "difficulty": "Easy",
+    "skills": []
+  },
+  {
     "id": 2635,
     "title": "Apply Transform Over Each Element in Array",
     "title_slug": "apply-transform-over-each-element-in-array",
