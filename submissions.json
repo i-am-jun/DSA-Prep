@@ -11,6 +11,16 @@
     ]
   },
   {
+    "id": 1929,
+    "title": "Concatenation of Array",
+    "title_slug": "concatenation-of-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2620,
     "title": "Counter",
     "title_slug": "counter",
