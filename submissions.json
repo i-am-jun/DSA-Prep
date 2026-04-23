@@ -11,6 +11,15 @@
     ]
   },
   {
+    "id": 1470,
+    "title": "Shuffle the Array",
+    "title_slug": "shuffle-the-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1929,
     "title": "Concatenation of Array",
     "title_slug": "concatenation-of-array",
