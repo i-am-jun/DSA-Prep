@@ -20,6 +20,18 @@
     ]
   },
   {
+    "id": 645,
+    "title": "Set Mismatch",
+    "title_slug": "set-mismatch",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1470,
     "title": "Shuffle the Array",
     "title_slug": "shuffle-the-array",
