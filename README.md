@@ -7,6 +7,7 @@
 | # | Title | Difficulty | Skills |
 |---| ----- | ---------- | ------ |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
+| 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | `Array` `Hash Table` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | `Array` `Bit Manipulation` `Hash Table` `Sorting` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | `Array` `Counting Sort` `Hash Table` `Sorting` |
