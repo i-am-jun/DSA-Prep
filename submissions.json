@@ -54,6 +54,17 @@
     ]
   },
   {
+    "id": 1441,
+    "title": "Build an Array With Stack Operations",
+    "title_slug": "build-an-array-with-stack-operations",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Stack"
+    ]
+  },
+  {
     "id": 1470,
     "title": "Shuffle the Array",
     "title_slug": "shuffle-the-array",

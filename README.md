@@ -11,6 +11,7 @@
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | `Array` `Bit Manipulation` `Hash Table` `Sorting` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | `Array` `Counting Sort` `Hash Table` `Sorting` |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations) | Medium | `Array` `Simulation` `Stack` |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy | `Array` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | Easy |  |
