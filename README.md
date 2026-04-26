@@ -7,6 +7,7 @@
 | # | Title | Difficulty | Skills |
 |---| ----- | ---------- | ------ |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
+| 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Medium | `Array` `Math` `Stack` |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | `Array` `Hash Table` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | `Array` `Bit Manipulation` `Hash Table` `Sorting` |

@@ -11,6 +11,17 @@
     ]
   },
   {
+    "id": 150,
+    "title": "Evaluate Reverse Polish Notation",
+    "title_slug": "evaluate-reverse-polish-notation",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Stack"
+    ]
+  },
+  {
     "id": 448,
     "title": "Find All Numbers Disappeared in an Array",
     "title_slug": "find-all-numbers-disappeared-in-an-array",
