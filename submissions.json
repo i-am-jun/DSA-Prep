@@ -41,6 +41,16 @@
     ]
   },
   {
+    "id": 636,
+    "title": "Exclusive Time of Functions",
+    "title_slug": "exclusive-time-of-functions",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Stack"
+    ]
+  },
+  {
     "id": 645,
     "title": "Set Mismatch",
     "title_slug": "set-mismatch",
