@@ -63,6 +63,17 @@
     ]
   },
   {
+    "id": 739,
+    "title": "Daily Temperatures",
+    "title_slug": "daily-temperatures",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 1365,
     "title": "How Many Numbers Are Smaller Than the Current Number",
     "title_slug": "how-many-numbers-are-smaller-than-the-current-number",
