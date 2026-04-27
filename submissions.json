@@ -95,6 +95,15 @@
     ]
   },
   {
+    "id": 941,
+    "title": "Valid Mountain Array",
+    "title_slug": "valid-mountain-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1365,
     "title": "How Many Numbers Are Smaller Than the Current Number",
     "title_slug": "how-many-numbers-are-smaller-than-the-current-number",
