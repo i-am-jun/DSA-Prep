@@ -1,5 +1,15 @@
 [
   {
+    "id": 66,
+    "title": "Plus One",
+    "title_slug": "plus-one",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 84,
     "title": "Largest Rectangle in Histogram",
     "title_slug": "largest-rectangle-in-histogram",
