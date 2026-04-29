@@ -169,6 +169,17 @@
     ]
   },
   {
+    "id": 2073,
+    "title": "Time Needed to Buy Tickets",
+    "title_slug": "time-needed-to-buy-tickets",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Queue",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2620,
     "title": "Counter",
     "title_slug": "counter",
