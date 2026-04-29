@@ -43,6 +43,17 @@
     ]
   },
   {
+    "id": 232,
+    "title": "Implement Queue using Stacks",
+    "title_slug": "implement-queue-using-stacks",
+    "difficulty": "Easy",
+    "skills": [
+      "Design",
+      "Queue",
+      "Stack"
+    ]
+  },
+  {
     "id": 448,
     "title": "Find All Numbers Disappeared in an Array",
     "title_slug": "find-all-numbers-disappeared-in-an-array",
