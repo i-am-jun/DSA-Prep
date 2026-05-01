@@ -64,6 +64,17 @@
     ]
   },
   {
+    "id": 396,
+    "title": "Rotate Function",
+    "title_slug": "rotate-function",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Math"
+    ]
+  },
+  {
     "id": 448,
     "title": "Find All Numbers Disappeared in an Array",
     "title_slug": "find-all-numbers-disappeared-in-an-array",
