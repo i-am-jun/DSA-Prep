@@ -127,6 +127,18 @@
     ]
   },
   {
+    "id": 759,
+    "title": "Employee Free Time",
+    "title_slug": "employee-free-time",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Sorting",
+      "Sweep Line"
+    ]
+  },
+  {
     "id": 941,
     "title": "Valid Mountain Array",
     "title_slug": "valid-mountain-array",
