@@ -133,6 +133,16 @@
     ]
   },
   {
+    "id": 69,
+    "title": "Sqrt(x)",
+    "title_slug": "sqrtx",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
+  },
+  {
     "id": 84,
     "title": "Largest Rectangle in Histogram",
     "title_slug": "largest-rectangle-in-histogram",
