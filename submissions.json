@@ -30,6 +30,17 @@
     ]
   },
   {
+    "id": 14,
+    "title": "Longest Common Prefix",
+    "title_slug": "longest-common-prefix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 66,
     "title": "Plus One",
     "title_slug": "plus-one",
