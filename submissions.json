@@ -121,6 +121,18 @@
     ]
   },
   {
+    "id": 67,
+    "title": "Add Binary",
+    "title_slug": "add-binary",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 84,
     "title": "Largest Rectangle in Histogram",
     "title_slug": "largest-rectangle-in-histogram",
