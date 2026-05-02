@@ -41,6 +41,16 @@
     ]
   },
   {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "title_slug": "valid-parentheses",
+    "difficulty": "Easy",
+    "skills": [
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 66,
     "title": "Plus One",
     "title_slug": "plus-one",
