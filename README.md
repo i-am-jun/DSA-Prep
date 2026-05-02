@@ -28,6 +28,7 @@
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | `Array` `Bit Manipulation` `Hash Table` `Sorting` |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium | `Array` `Monotonic Stack` `Stack` |
 | 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time) | Hard | `Array` `Heap (Priority Queue)` `Sorting` `Sweep Line` |
+| 0788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits) | Medium | `Dynamic Programming` `Math` |
 | 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | Easy | `Array` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | `Array` `Counting Sort` `Hash Table` `Sorting` |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations) | Medium | `Array` `Simulation` `Stack` |

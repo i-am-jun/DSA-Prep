@@ -231,6 +231,16 @@
     ]
   },
   {
+    "id": 788,
+    "title": "Rotated Digits",
+    "title_slug": "rotated-digits",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Math"
+    ]
+  },
+  {
     "id": 941,
     "title": "Valid Mountain Array",
     "title_slug": "valid-mountain-array",
