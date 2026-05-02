@@ -143,6 +143,17 @@
     ]
   },
   {
+    "id": 70,
+    "title": "Climbing Stairs",
+    "title_slug": "climbing-stairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Memoization"
+    ]
+  },
+  {
     "id": 84,
     "title": "Largest Rectangle in Histogram",
     "title_slug": "largest-rectangle-in-histogram",
