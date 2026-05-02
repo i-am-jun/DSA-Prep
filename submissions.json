@@ -154,6 +154,15 @@
     ]
   },
   {
+    "id": 83,
+    "title": "Remove Duplicates from Sorted List",
+    "title_slug": "remove-duplicates-from-sorted-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List"
+    ]
+  },
+  {
     "id": 84,
     "title": "Largest Rectangle in Histogram",
     "title_slug": "largest-rectangle-in-histogram",
