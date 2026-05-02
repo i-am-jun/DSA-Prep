@@ -51,6 +51,16 @@
     ]
   },
   {
+    "id": 21,
+    "title": "Merge Two Sorted Lists",
+    "title_slug": "merge-two-sorted-lists",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
     "id": 66,
     "title": "Plus One",
     "title_slug": "plus-one",
