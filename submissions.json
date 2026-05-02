@@ -301,6 +301,17 @@
     ]
   },
   {
+    "id": 1063,
+    "title": "Number of Valid Subarrays",
+    "title_slug": "number-of-valid-subarrays",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 1365,
     "title": "How Many Numbers Are Smaller Than the Current Number",
     "title_slug": "how-many-numbers-are-smaller-than-the-current-number",
