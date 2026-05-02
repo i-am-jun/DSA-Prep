@@ -15,6 +15,7 @@
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | `Array` `Two Pointers` |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | Easy | `String` `String Matching` `Two Pointers` |
+| 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | `Array` `Binary Search` |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | `Array` `Math` |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | Hard | `Array` `Monotonic Stack` `Stack` |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
