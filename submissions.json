@@ -292,6 +292,16 @@
     ]
   },
   {
+    "id": 796,
+    "title": "Rotate String",
+    "title_slug": "rotate-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "String Matching"
+    ]
+  },
+  {
     "id": 941,
     "title": "Valid Mountain Array",
     "title_slug": "valid-mountain-array",
