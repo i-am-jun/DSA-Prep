@@ -24,6 +24,7 @@
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | `Linked List` |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | Hard | `Array` `Monotonic Stack` `Stack` |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
+| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Medium | `Array` `Math` `Stack` |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | `Design` `Queue` `Stack` |
 | 0396 | [Rotate Function](https://leetcode.com/problems/rotate-function) | Medium | `Array` `Dynamic Programming` `Math` |

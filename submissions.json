@@ -185,6 +185,18 @@
     ]
   },
   {
+    "id": 94,
+    "title": "Binary Tree Inorder Traversal",
+    "title_slug": "binary-tree-inorder-traversal",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 150,
     "title": "Evaluate Reverse Polish Notation",
     "title_slug": "evaluate-reverse-polish-notation",
