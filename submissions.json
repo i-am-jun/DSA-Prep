@@ -102,6 +102,17 @@
     ]
   },
   {
+    "id": 48,
+    "title": "Rotate Image",
+    "title_slug": "rotate-image",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
     "id": 58,
     "title": "Length of Last Word",
     "title_slug": "length-of-last-word",
