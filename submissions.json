@@ -122,6 +122,16 @@
     ]
   },
   {
+    "id": 61,
+    "title": "Rotate List",
+    "title_slug": "rotate-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 66,
     "title": "Plus One",
     "title_slug": "plus-one",
