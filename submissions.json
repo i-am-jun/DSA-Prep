@@ -230,6 +230,18 @@
     ]
   },
   {
+    "id": 101,
+    "title": "Symmetric Tree",
+    "title_slug": "symmetric-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 150,
     "title": "Evaluate Reverse Polish Notation",
     "title_slug": "evaluate-reverse-polish-notation",
