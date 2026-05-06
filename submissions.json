@@ -444,6 +444,17 @@
     ]
   },
   {
+    "id": 1861,
+    "title": "Rotating the Box",
+    "title_slug": "rotating-the-box",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1929,
     "title": "Concatenation of Array",
     "title_slug": "concatenation-of-array",
