@@ -516,5 +516,15 @@
     "title_slug": "to-be-or-not-to-be",
     "difficulty": "Easy",
     "skills": []
+  },
+  {
+    "id": 3660,
+    "title": "Jump Game IX",
+    "title_slug": "jump-game-ix",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
   }
 ]
