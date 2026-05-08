@@ -294,6 +294,16 @@
     ]
   },
   {
+    "id": 489,
+    "title": "Robot Room Cleaner",
+    "title_slug": "robot-room-cleaner",
+    "difficulty": "Hard",
+    "skills": [
+      "Backtracking",
+      "Interactive"
+    ]
+  },
+  {
     "id": 636,
     "title": "Exclusive Time of Functions",
     "title_slug": "exclusive-time-of-functions",

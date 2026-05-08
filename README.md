@@ -34,6 +34,7 @@
 | 0396 | [Rotate Function](https://leetcode.com/problems/rotate-function) | Medium | `Array` `Dynamic Programming` `Math` |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | `Array` `Hash Table` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
+| 0489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner) | Hard | `Backtracking` `Interactive` |
 | 0636 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) | Medium | `Array` `Stack` |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | `Array` `Bit Manipulation` `Hash Table` `Sorting` |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium | `Array` `Monotonic Stack` `Stack` |
