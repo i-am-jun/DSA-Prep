@@ -518,6 +518,19 @@
     "skills": []
   },
   {
+    "id": 3629,
+    "title": "Minimum Jumps to Reach End via Prime Teleportation",
+    "title_slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Hash Table",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 3660,
     "title": "Jump Game IX",
     "title_slug": "jump-game-ix",
