@@ -539,6 +539,16 @@
     "skills": []
   },
   {
+    "id": 2770,
+    "title": "Maximum Number of Jumps to Reach the Last Index",
+    "title_slug": "maximum-number-of-jumps-to-reach-the-last-index",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 3629,
     "title": "Minimum Jumps to Reach End via Prime Teleportation",
     "title_slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
