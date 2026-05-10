@@ -50,6 +50,7 @@
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) | Easy | `Array` `Monotonic Stack` `Stack` |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) | Easy | `Array` `Queue` `Simulation` `Stack` |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box) | Medium | `Array` `Matrix` `Two Pointers` |
+| 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid) | Medium | `Array` `Matrix` `Simulation` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |
 | 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets) | Easy | `Array` `Queue` `Simulation` |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | Easy |  |

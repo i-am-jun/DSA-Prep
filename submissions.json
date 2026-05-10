@@ -465,6 +465,17 @@
     ]
   },
   {
+    "id": 1914,
+    "title": "Cyclically Rotating a Grid",
+    "title_slug": "cyclically-rotating-a-grid",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1929,
     "title": "Concatenation of Array",
     "title_slug": "concatenation-of-array",
