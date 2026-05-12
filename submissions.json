@@ -442,6 +442,17 @@
     ]
   },
   {
+    "id": 1665,
+    "title": "Minimum Initial Energy to Finish Tasks",
+    "title_slug": "minimum-initial-energy-to-finish-tasks",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1700,
     "title": "Number of Students Unable to Eat Lunch",
     "title_slug": "number-of-students-unable-to-eat-lunch",
