@@ -453,6 +453,17 @@
     ]
   },
   {
+    "id": 1674,
+    "title": "Minimum Moves to Make Array Complementary",
+    "title_slug": "minimum-moves-to-make-array-complementary",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1700,
     "title": "Number of Students Unable to Eat Lunch",
     "title_slug": "number-of-students-unable-to-eat-lunch",
