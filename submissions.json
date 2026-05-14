@@ -581,6 +581,17 @@
     ]
   },
   {
+    "id": 2784,
+    "title": "Check if Array is Good",
+    "title_slug": "check-if-array-is-good",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3629,
     "title": "Minimum Jumps to Reach End via Prime Teleportation",
     "title_slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
