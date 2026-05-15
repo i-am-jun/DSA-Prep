@@ -518,6 +518,17 @@
     ]
   },
   {
+    "id": 2061,
+    "title": "Number of Spaces Cleaning Robot Cleaned",
+    "title_slug": "number-of-spaces-cleaning-robot-cleaned",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2073,
     "title": "Time Needed to Buy Tickets",
     "title_slug": "time-needed-to-buy-tickets",
