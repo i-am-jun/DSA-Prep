@@ -46,6 +46,7 @@
 | 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | Easy | `Array` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
 | 1063 | [Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays) | Hard | `Array` `Monotonic Stack` `Stack` |
+| 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii) | Medium | `Array` `Breadth-First Search` `Depth-First Search` |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv) | Hard | `Array` `Breadth-First Search` `Hash Table` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | `Array` `Counting Sort` `Hash Table` `Sorting` |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations) | Medium | `Array` `Simulation` `Stack` |

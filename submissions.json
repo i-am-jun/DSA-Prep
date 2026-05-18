@@ -419,6 +419,17 @@
     ]
   },
   {
+    "id": 1306,
+    "title": "Jump Game III",
+    "title_slug": "jump-game-iii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search"
+    ]
+  },
+  {
     "id": 1345,
     "title": "Jump Game IV",
     "title_slug": "jump-game-iv",
