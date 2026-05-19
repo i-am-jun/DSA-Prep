@@ -572,6 +572,18 @@
     ]
   },
   {
+    "id": 2540,
+    "title": "Minimum Common Value",
+    "title_slug": "minimum-common-value",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Hash Table",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2553,
     "title": "Separate the Digits in an Array",
     "title_slug": "separate-the-digits-in-an-array",

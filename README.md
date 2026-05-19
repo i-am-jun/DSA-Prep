@@ -60,6 +60,7 @@
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |
 | 2061 | [Number of Spaces Cleaning Robot Cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned) | Medium | `Array` `Matrix` `Simulation` |
 | 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets) | Easy | `Array` `Queue` `Simulation` |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | Easy | `Array` `Binary Search` `Hash Table` `Two Pointers` |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | Easy | `Array` `Simulation` |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | Easy |  |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array) | Easy |  |
