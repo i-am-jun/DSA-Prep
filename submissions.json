@@ -615,6 +615,17 @@
     "skills": []
   },
   {
+    "id": 2657,
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "title_slug": "find-the-prefix-common-array-of-two-arrays",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2665,
     "title": "Counter II",
     "title_slug": "counter-ii",

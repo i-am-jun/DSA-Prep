@@ -65,6 +65,7 @@
 | 2620 | [Counter](https://leetcode.com/problems/counter) | Easy |  |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array) | Easy |  |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array) | Easy |  |
+| 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | Medium | `Array` `Bit Manipulation` `Hash Table` |
 | 2665 | [Counter II](https://leetcode.com/problems/counter-ii) | Easy |  |
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function) | Easy |  |
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be) | Easy |  |
