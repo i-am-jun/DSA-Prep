@@ -668,6 +668,18 @@
     ]
   },
   {
+    "id": 3043,
+    "title": "Find the Length of the Longest Common Prefix",
+    "title_slug": "find-the-length-of-the-longest-common-prefix",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 3629,
     "title": "Minimum Jumps to Reach End via Prime Teleportation",
     "title_slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
