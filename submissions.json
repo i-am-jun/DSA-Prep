@@ -429,6 +429,16 @@
     ]
   },
   {
+    "id": 1064,
+    "title": "Fixed Point",
+    "title_slug": "fixed-point",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 1306,
     "title": "Jump Game III",
     "title_slug": "jump-game-iii",
