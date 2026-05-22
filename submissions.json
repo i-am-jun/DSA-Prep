@@ -92,6 +92,16 @@
     ]
   },
   {
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "title_slug": "search-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 35,
     "title": "Search Insert Position",
     "title_slug": "search-insert-position",
