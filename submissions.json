@@ -450,6 +450,17 @@
     ]
   },
   {
+    "id": 1340,
+    "title": "Jump Game V",
+    "title_slug": "jump-game-v",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1345,
     "title": "Jump Game IV",
     "title_slug": "jump-game-iv",
