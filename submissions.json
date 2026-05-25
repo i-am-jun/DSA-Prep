@@ -569,6 +569,18 @@
     ]
   },
   {
+    "id": 1871,
+    "title": "Jump Game VII",
+    "title_slug": "jump-game-vii",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Prefix Sum",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 1914,
     "title": "Cyclically Rotating a Grid",
     "title_slug": "cyclically-rotating-a-grid",
