@@ -742,6 +742,16 @@
     ]
   },
   {
+    "id": 3121,
+    "title": "Count the Number of Special Characters II",
+    "title_slug": "count-the-number-of-special-characters-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 3629,
     "title": "Minimum Jumps to Reach End via Prime Teleportation",
     "title_slug": "minimum-jumps-to-reach-end-via-prime-teleportation",

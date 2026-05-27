@@ -78,5 +78,6 @@
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good) | Easy | `Array` `Hash Table` `Sorting` |
 | 3043 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix) | Medium | `Array` `Hash Table` `String` `Trie` |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | Easy | `Hash Table` `String` |
+| 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii) | Medium | `Hash Table` `String` |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation) | Medium | `Array` `Breadth-First Search` `Hash Table` `Math` `Number Theory` |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix) | Medium | `Array` `Dynamic Programming` |
