@@ -732,6 +732,17 @@
     ]
   },
   {
+    "id": 3093,
+    "title": "Longest Common Suffix Queries",
+    "title_slug": "longest-common-suffix-queries",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 3120,
     "title": "Count the Number of Special Characters I",
     "title_slug": "count-the-number-of-special-characters-i",
