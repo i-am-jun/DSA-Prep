@@ -763,6 +763,16 @@
     ]
   },
   {
+    "id": 3300,
+    "title": "Minimum Element After Replacement With Digit Sum",
+    "title_slug": "minimum-element-after-replacement-with-digit-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 3629,
     "title": "Minimum Jumps to Reach End via Prime Teleportation",
     "title_slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
