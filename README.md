@@ -46,6 +46,7 @@
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | `String` `String Matching` |
 | 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | Easy | `Array` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
+| 1056 | [Confusing Number](https://leetcode.com/problems/confusing-number) | Easy | `Math` |
 | 1063 | [Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays) | Hard | `Array` `Monotonic Stack` `Stack` |
 | 1064 | [Fixed Point](https://leetcode.com/problems/fixed-point) | Easy | `Array` `Binary Search` |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii) | Medium | `Array` `Breadth-First Search` `Depth-First Search` |

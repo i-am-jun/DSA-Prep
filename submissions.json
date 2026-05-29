@@ -418,6 +418,15 @@
     ]
   },
   {
+    "id": 1056,
+    "title": "Confusing Number",
+    "title_slug": "confusing-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 1063,
     "title": "Number of Valid Subarrays",
     "title_slug": "number-of-valid-subarrays",
