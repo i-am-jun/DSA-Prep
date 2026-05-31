@@ -633,6 +633,17 @@
     ]
   },
   {
+    "id": 2126,
+    "title": "Destroying Asteroids",
+    "title_slug": "destroying-asteroids",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2540,
     "title": "Minimum Common Value",
     "title_slug": "minimum-common-value",
