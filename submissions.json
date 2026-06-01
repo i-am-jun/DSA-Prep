@@ -644,6 +644,17 @@
     ]
   },
   {
+    "id": 2144,
+    "title": "Minimum Cost of Buying Candies With Discount",
+    "title_slug": "minimum-cost-of-buying-candies-with-discount",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2540,
     "title": "Minimum Common Value",
     "title_slug": "minimum-common-value",
