@@ -356,6 +356,18 @@
     ]
   },
   {
+    "id": 723,
+    "title": "Candy Crush",
+    "title_slug": "candy-crush",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 739,
     "title": "Daily Temperatures",
     "title_slug": "daily-temperatures",

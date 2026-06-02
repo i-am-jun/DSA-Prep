@@ -40,6 +40,7 @@
 | 0489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner) | Hard | `Backtracking` `Interactive` |
 | 0636 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) | Medium | `Array` `Stack` |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | `Array` `Bit Manipulation` `Hash Table` `Sorting` |
+| 0723 | [Candy Crush](https://leetcode.com/problems/candy-crush) | Medium | `Array` `Matrix` `Simulation` `Two Pointers` |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium | `Array` `Monotonic Stack` `Stack` |
 | 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time) | Hard | `Array` `Heap (Priority Queue)` `Sorting` `Sweep Line` |
 | 0788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits) | Medium | `Dynamic Programming` `Math` |
