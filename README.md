@@ -86,4 +86,5 @@
 | 3161 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries) | Hard | `Array` `Binary Indexed Tree` `Binary Search` `Segment Tree` |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | Easy | `Array` `Math` |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation) | Medium | `Array` `Breadth-First Search` `Hash Table` `Math` `Number Theory` |
+| 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i) | Easy | `Array` `Binary Search` `Greedy` `Sorting` `Two Pointers` |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix) | Medium | `Array` `Dynamic Programming` |
