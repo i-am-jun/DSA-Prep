@@ -854,6 +854,19 @@
     ]
   },
   {
+    "id": 3635,
+    "title": "Earliest Finish Time for Land and Water Rides II",
+    "title_slug": "earliest-finish-time-for-land-and-water-rides-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3660,
     "title": "Jump Game IX",
     "title_slug": "jump-game-ix",
