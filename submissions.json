@@ -875,5 +875,16 @@
       "Array",
       "Dynamic Programming"
     ]
+  },
+  {
+    "id": 3751,
+    "title": "Total Waviness of Numbers in Range I",
+    "title_slug": "total-waviness-of-numbers-in-range-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Enumeration",
+      "Math"
+    ]
   }
 ]
