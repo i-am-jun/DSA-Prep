@@ -886,5 +886,15 @@
       "Enumeration",
       "Math"
     ]
+  },
+  {
+    "id": 3753,
+    "title": "Total Waviness of Numbers in Range II",
+    "title_slug": "total-waviness-of-numbers-in-range-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Math"
+    ]
   }
 ]
