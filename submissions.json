@@ -667,6 +667,17 @@
     ]
   },
   {
+    "id": 2161,
+    "title": "Partition Array According to Given Pivot",
+    "title_slug": "partition-array-according-to-given-pivot",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2196,
     "title": "Create Binary Tree From Descriptions",
     "title_slug": "create-binary-tree-from-descriptions",
