@@ -667,6 +667,18 @@
     ]
   },
   {
+    "id": 2196,
+    "title": "Create Binary Tree From Descriptions",
+    "title_slug": "create-binary-tree-from-descriptions",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Tree",
+      "Hash Table",
+      "Tree"
+    ]
+  },
+  {
     "id": 2540,
     "title": "Minimum Common Value",
     "title_slug": "minimum-common-value",

@@ -69,6 +69,7 @@
 | 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets) | Easy | `Array` `Queue` `Simulation` |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids) | Medium | `Array` `Greedy` `Sorting` |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) | Easy | `Array` `Greedy` `Sorting` |
+| 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions) | Medium | `Array` `Binary Tree` `Hash Table` `Tree` |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | Easy | `Array` `Binary Search` `Hash Table` `Two Pointers` |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | Easy | `Array` `Simulation` |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | Easy | `Array` `Prefix Sum` |
