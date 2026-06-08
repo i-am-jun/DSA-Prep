@@ -645,6 +645,17 @@
     ]
   },
   {
+    "id": 2107,
+    "title": "Number of Unique Flavors After Sharing K Candies",
+    "title_slug": "number-of-unique-flavors-after-sharing-k-candies",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2126,
     "title": "Destroying Asteroids",
     "title_slug": "destroying-asteroids",
