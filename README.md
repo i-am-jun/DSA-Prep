@@ -95,5 +95,6 @@
 | 3635 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii) | Medium | `Array` `Binary Search` `Greedy` `Sorting` `Two Pointers` |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix) | Medium | `Array` `Dynamic Programming` |
 | 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i) | Medium | `Array` `Greedy` |
+| 3691 | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii) | Hard | `Array` `Greedy` `Heap (Priority Queue)` `Segment Tree` |
 | 3751 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) | Medium | `Dynamic Programming` `Enumeration` `Math` |
 | 3753 | [Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii) | Hard | `Dynamic Programming` `Math` |

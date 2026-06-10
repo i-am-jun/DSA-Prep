@@ -931,6 +931,18 @@
     ]
   },
   {
+    "id": 3691,
+    "title": "Maximum Total Subarray Value II",
+    "title_slug": "maximum-total-subarray-value-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Segment Tree"
+    ]
+  },
+  {
     "id": 3751,
     "title": "Total Waviness of Numbers in Range I",
     "title_slug": "total-waviness-of-numbers-in-range-i",
