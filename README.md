@@ -90,6 +90,7 @@
 | 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii) | Medium | `Hash Table` `String` |
 | 3161 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries) | Hard | `Array` `Binary Indexed Tree` `Binary Search` `Segment Tree` |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | Easy | `Array` `Math` |
+| 3558 | [Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i) | Medium | `Depth-First Search` `Math` `Tree` |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation) | Medium | `Array` `Breadth-First Search` `Hash Table` `Math` `Number Theory` |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i) | Easy | `Array` `Binary Search` `Greedy` `Sorting` `Two Pointers` |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii) | Medium | `Array` `Binary Search` `Greedy` `Sorting` `Two Pointers` |

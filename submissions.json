@@ -872,6 +872,17 @@
     ]
   },
   {
+    "id": 3558,
+    "title": "Number of Ways to Assign Edge Weights I",
+    "title_slug": "number-of-ways-to-assign-edge-weights-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Depth-First Search",
+      "Math",
+      "Tree"
+    ]
+  },
+  {
     "id": 3629,
     "title": "Minimum Jumps to Reach End via Prime Teleportation",
     "title_slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
