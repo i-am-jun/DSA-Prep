@@ -883,6 +883,20 @@
     ]
   },
   {
+    "id": 3559,
+    "title": "Number of Ways to Assign Edge Weights II",
+    "title_slug": "number-of-ways-to-assign-edge-weights-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Depth-First Search",
+      "Dynamic Programming",
+      "Math",
+      "Tree"
+    ]
+  },
+  {
     "id": 3629,
     "title": "Minimum Jumps to Reach End via Prime Teleportation",
     "title_slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
