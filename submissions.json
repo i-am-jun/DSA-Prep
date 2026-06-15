@@ -460,6 +460,16 @@
     ]
   },
   {
+    "id": 1259,
+    "title": "Handshakes That Don't Cross",
+    "title_slug": "handshakes-that-dont-cross",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Math"
+    ]
+  },
+  {
     "id": 1306,
     "title": "Jump Game III",
     "title_slug": "jump-game-iii",

@@ -50,6 +50,7 @@
 | 1056 | [Confusing Number](https://leetcode.com/problems/confusing-number) | Easy | `Math` |
 | 1063 | [Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays) | Hard | `Array` `Monotonic Stack` `Stack` |
 | 1064 | [Fixed Point](https://leetcode.com/problems/fixed-point) | Easy | `Array` `Binary Search` |
+| 1259 | [Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross) | Hard | `Dynamic Programming` `Math` |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii) | Medium | `Array` `Breadth-First Search` `Depth-First Search` |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | Hard | `Array` `Dynamic Programming` `Sorting` |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv) | Hard | `Array` `Breadth-First Search` `Hash Table` |
