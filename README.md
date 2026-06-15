@@ -67,6 +67,7 @@
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |
 | 2061 | [Number of Spaces Cleaning Robot Cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned) | Medium | `Array` `Matrix` `Simulation` |
 | 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets) | Easy | `Array` `Queue` `Simulation` |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | Medium | `Linked List` `Two Pointers` |
 | 2107 | [Number of Unique Flavors After Sharing K Candies](https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies) | Medium | `Array` `Hash Table` `Sliding Window` |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids) | Medium | `Array` `Greedy` `Sorting` |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) | Easy | `Array` `Greedy` `Sorting` |

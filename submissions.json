@@ -645,6 +645,16 @@
     ]
   },
   {
+    "id": 2095,
+    "title": "Delete the Middle Node of a Linked List",
+    "title_slug": "delete-the-middle-node-of-a-linked-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2107,
     "title": "Number of Unique Flavors After Sharing K Candies",
     "title_slug": "number-of-unique-flavors-after-sharing-k-candies",
