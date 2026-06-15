@@ -687,6 +687,17 @@
     ]
   },
   {
+    "id": 2130,
+    "title": "Maximum Twin Sum of a Linked List",
+    "title_slug": "maximum-twin-sum-of-a-linked-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Stack",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2144,
     "title": "Minimum Cost of Buying Candies With Discount",
     "title_slug": "minimum-cost-of-buying-candies-with-discount",
