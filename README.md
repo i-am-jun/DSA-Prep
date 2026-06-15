@@ -100,3 +100,4 @@
 | 3691 | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii) | Hard | `Array` `Greedy` `Heap (Priority Queue)` `Segment Tree` |
 | 3751 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) | Medium | `Dynamic Programming` `Enumeration` `Math` |
 | 3753 | [Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii) | Hard | `Dynamic Programming` `Math` |
+| 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping) | Easy | `Array` `Simulation` `String` |

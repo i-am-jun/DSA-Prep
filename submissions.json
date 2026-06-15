@@ -987,5 +987,16 @@
       "Dynamic Programming",
       "Math"
     ]
+  },
+  {
+    "id": 3838,
+    "title": "Weighted Word Mapping",
+    "title_slug": "weighted-word-mapping",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation",
+      "String"
+    ]
   }
 ]
