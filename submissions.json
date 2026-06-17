@@ -938,6 +938,16 @@
     ]
   },
   {
+    "id": 3614,
+    "title": "Process String with Special Operations II",
+    "title_slug": "process-string-with-special-operations-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 3629,
     "title": "Minimum Jumps to Reach End via Prime Teleportation",
     "title_slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
