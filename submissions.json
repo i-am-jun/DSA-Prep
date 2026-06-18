@@ -492,6 +492,15 @@
     ]
   },
   {
+    "id": 1344,
+    "title": "Angle Between Hands of a Clock",
+    "title_slug": "angle-between-hands-of-a-clock",
+    "difficulty": "Medium",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 1345,
     "title": "Jump Game IV",
     "title_slug": "jump-game-iv",

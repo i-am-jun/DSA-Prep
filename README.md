@@ -53,6 +53,7 @@
 | 1259 | [Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross) | Hard | `Dynamic Programming` `Math` |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii) | Medium | `Array` `Breadth-First Search` `Depth-First Search` |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | Hard | `Array` `Dynamic Programming` `Sorting` |
+| 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | Medium | `Math` |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv) | Hard | `Array` `Breadth-First Search` `Hash Table` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | `Array` `Counting Sort` `Hash Table` `Sorting` |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations) | Medium | `Array` `Simulation` `Stack` |
