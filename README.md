@@ -62,6 +62,7 @@
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks) | Hard | `Array` `Greedy` `Sorting` |
 | 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary) | Medium | `Array` `Hash Table` `Prefix Sum` |
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) | Easy | `Array` `Queue` `Simulation` `Stack` |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy | `Array` `Prefix Sum` |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box) | Medium | `Array` `Matrix` `Two Pointers` |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii) | Medium | `Dynamic Programming` `Prefix Sum` `Sliding Window` `String` |

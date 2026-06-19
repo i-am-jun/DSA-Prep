@@ -589,6 +589,16 @@
     ]
   },
   {
+    "id": 1732,
+    "title": "Find the Highest Altitude",
+    "title_slug": "find-the-highest-altitude",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1752,
     "title": "Check if Array Is Sorted and Rotated",
     "title_slug": "check-if-array-is-sorted-and-rotated",
