@@ -64,6 +64,7 @@
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) | Easy | `Array` `Queue` `Simulation` `Stack` |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy | `Array` `Prefix Sum` |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
+| 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height) | Hard | `Array` `Math` `Sorting` |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box) | Medium | `Array` `Matrix` `Two Pointers` |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii) | Medium | `Dynamic Programming` `Prefix Sum` `Sliding Window` `String` |
 | 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid) | Medium | `Array` `Matrix` `Simulation` |

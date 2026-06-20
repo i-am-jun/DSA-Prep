@@ -608,6 +608,17 @@
     ]
   },
   {
+    "id": 1840,
+    "title": "Maximum Building Height",
+    "title_slug": "maximum-building-height",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1861,
     "title": "Rotating the Box",
     "title_slug": "rotating-the-box",
