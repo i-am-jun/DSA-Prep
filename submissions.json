@@ -460,6 +460,17 @@
     ]
   },
   {
+    "id": 1189,
+    "title": "Maximum Number of Balloons",
+    "title_slug": "maximum-number-of-balloons",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1259,
     "title": "Handshakes That Don't Cross",
     "title_slug": "handshakes-that-dont-cross",
