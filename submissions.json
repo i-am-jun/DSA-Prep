@@ -566,6 +566,19 @@
     ]
   },
   {
+    "id": 1485,
+    "title": "Clone Binary Tree With Random Pointer",
+    "title_slug": "clone-binary-tree-with-random-pointer",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Hash Table",
+      "Tree"
+    ]
+  },
+  {
     "id": 1665,
     "title": "Minimum Initial Energy to Finish Tasks",
     "title_slug": "minimum-initial-energy-to-finish-tasks",
