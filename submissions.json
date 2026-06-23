@@ -1085,6 +1085,16 @@
     ]
   },
   {
+    "id": 3699,
+    "title": "Number of ZigZag Arrays I",
+    "title_slug": "number-of-zigzag-arrays-i",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3751,
     "title": "Total Waviness of Numbers in Range I",
     "title_slug": "total-waviness-of-numbers-in-range-i",
