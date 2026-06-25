@@ -1105,6 +1105,21 @@
     ]
   },
   {
+    "id": 3737,
+    "title": "Count Subarrays With Majority Element I",
+    "title_slug": "count-subarrays-with-majority-element-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Counting",
+      "Divide and Conquer",
+      "Hash Table",
+      "Merge Sort",
+      "Prefix Sum",
+      "Segment Tree"
+    ]
+  },
+  {
     "id": 3751,
     "title": "Total Waviness of Numbers in Range I",
     "title_slug": "total-waviness-of-numbers-in-range-i",
