@@ -904,6 +904,17 @@
     ]
   },
   {
+    "id": 3020,
+    "title": "Find the Maximum Number of Elements in Subset",
+    "title_slug": "find-the-maximum-number-of-elements-in-subset",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3043,
     "title": "Find the Length of the Longest Common Prefix",
     "title_slug": "find-the-length-of-the-longest-common-prefix",
