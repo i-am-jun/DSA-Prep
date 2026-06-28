@@ -655,6 +655,17 @@
     ]
   },
   {
+    "id": 1846,
+    "title": "Maximum Element After Decreasing and Rearranging",
+    "title_slug": "maximum-element-after-decreasing-and-rearranging",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1861,
     "title": "Rotating the Box",
     "title_slug": "rotating-the-box",

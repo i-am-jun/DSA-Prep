@@ -68,6 +68,7 @@
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) | Medium | `Array` `Counting Sort` `Greedy` `Sorting` |
 | 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height) | Hard | `Array` `Math` `Sorting` |
+| 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging) | Medium | `Array` `Greedy` `Sorting` |
 | 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box) | Medium | `Array` `Matrix` `Two Pointers` |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii) | Medium | `Dynamic Programming` `Prefix Sum` `Sliding Window` `String` |
 | 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid) | Medium | `Array` `Matrix` `Simulation` |
