@@ -710,6 +710,16 @@
     ]
   },
   {
+    "id": 1967,
+    "title": "Number of Strings That Appear as Substrings in Word",
+    "title_slug": "number-of-strings-that-appear-as-substrings-in-word",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
+  },
+  {
     "id": 2061,
     "title": "Number of Spaces Cleaning Robot Cleaned",
     "title_slug": "number-of-spaces-cleaning-robot-cleaned",
