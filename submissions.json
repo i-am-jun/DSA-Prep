@@ -948,6 +948,20 @@
     ]
   },
   {
+    "id": 2812,
+    "title": "Find the Safest Path in a Grid",
+    "title_slug": "find-the-safest-path-in-a-grid",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Breadth-First Search",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 3020,
     "title": "Find the Maximum Number of Elements in Subset",
     "title_slug": "find-the-maximum-number-of-elements-in-subset",

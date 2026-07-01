@@ -97,6 +97,7 @@
 | 2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be) | Easy |  |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index) | Medium | `Array` `Dynamic Programming` |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good) | Easy | `Array` `Hash Table` `Sorting` |
+| 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) | Medium | `Array` `Binary Search` `Breadth-First Search` `Heap (Priority Queue)` `Matrix` `Union-Find` |
 | 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset) | Medium | `Array` `Enumeration` `Hash Table` |
 | 3043 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix) | Medium | `Array` `Hash Table` `String` `Trie` |
 | 3093 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries) | Hard | `Array` `String` `Trie` |
