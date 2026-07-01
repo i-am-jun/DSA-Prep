@@ -590,6 +590,18 @@
     ]
   },
   {
+    "id": 1490,
+    "title": "Clone N-ary Tree",
+    "title_slug": "clone-n-ary-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Hash Table",
+      "Tree"
+    ]
+  },
+  {
     "id": 1665,
     "title": "Minimum Initial Energy to Finish Tasks",
     "title_slug": "minimum-initial-energy-to-finish-tasks",
