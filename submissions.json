@@ -294,6 +294,18 @@
     ]
   },
   {
+    "id": 288,
+    "title": "Unique Word Abbreviation",
+    "title_slug": "unique-word-abbreviation",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Design",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 396,
     "title": "Rotate Function",
     "title_slug": "rotate-function",
