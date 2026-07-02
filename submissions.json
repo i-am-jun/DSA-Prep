@@ -1028,6 +1028,20 @@
     ]
   },
   {
+    "id": 3286,
+    "title": "Find a Safe Walk Through a Grid",
+    "title_slug": "find-a-safe-walk-through-a-grid",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Shortest Path"
+    ]
+  },
+  {
     "id": 3300,
     "title": "Minimum Element After Replacement With Digit Sum",
     "title_slug": "minimum-element-after-replacement-with-digit-sum",
