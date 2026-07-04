@@ -112,6 +112,7 @@
 | 3559 | [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii) | Hard | `Array` `Bit Manipulation` `Depth-First Search` `Dynamic Programming` `Math` `Tree` |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i) | Medium | `Simulation` `String` |
 | 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii) | Hard | `Simulation` `String` |
+| 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways) | Hard | `Array` `Binary Search` `Dynamic Programming` `Graph Theory` `Heap (Priority Queue)` `Shortest Path` `Topological Sort` |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation) | Medium | `Array` `Breadth-First Search` `Hash Table` `Math` `Number Theory` |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i) | Easy | `Array` `Binary Search` `Greedy` `Sorting` `Two Pointers` |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii) | Medium | `Array` `Binary Search` `Greedy` `Sorting` `Two Pointers` |

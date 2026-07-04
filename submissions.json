@@ -1121,6 +1121,21 @@
     ]
   },
   {
+    "id": 3620,
+    "title": "Network Recovery Pathways",
+    "title_slug": "network-recovery-pathways",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path",
+      "Topological Sort"
+    ]
+  },
+  {
     "id": 3629,
     "title": "Minimum Jumps to Reach End via Prime Teleportation",
     "title_slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
