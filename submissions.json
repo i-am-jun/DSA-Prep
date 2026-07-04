@@ -854,6 +854,18 @@
     ]
   },
   {
+    "id": 2492,
+    "title": "Minimum Score of a Path Between Two Cities",
+    "title_slug": "minimum-score-of-a-path-between-two-cities",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 2540,
     "title": "Minimum Common Value",
     "title_slug": "minimum-common-value",
