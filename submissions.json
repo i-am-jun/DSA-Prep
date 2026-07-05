@@ -493,6 +493,17 @@
     ]
   },
   {
+    "id": 1301,
+    "title": "Number of Paths with Max Score",
+    "title_slug": "number-of-paths-with-max-score",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1306,
     "title": "Jump Game III",
     "title_slug": "jump-game-iii",
