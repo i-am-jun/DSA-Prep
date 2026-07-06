@@ -493,6 +493,16 @@
     ]
   },
   {
+    "id": 1288,
+    "title": "Remove Covered Intervals",
+    "title_slug": "remove-covered-intervals",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1301,
     "title": "Number of Paths with Max Score",
     "title_slug": "number-of-paths-with-max-score",
