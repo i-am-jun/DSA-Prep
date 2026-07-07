@@ -1298,6 +1298,15 @@
     ]
   },
   {
+    "id": 3754,
+    "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+    "title_slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3838,
     "title": "Weighted Word Mapping",
     "title_slug": "weighted-word-mapping",
