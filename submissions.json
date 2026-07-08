@@ -306,6 +306,17 @@
     ]
   },
   {
+    "id": 291,
+    "title": "Word Pattern II",
+    "title_slug": "word-pattern-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 396,
     "title": "Rotate Function",
     "title_slug": "rotate-function",

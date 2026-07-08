@@ -35,6 +35,7 @@
 | 0154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | Hard | `Array` `Binary Search` |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | `Design` `Queue` `Stack` |
 | 0288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation) | Medium | `Array` `Design` `Hash Table` `String` |
+| 0291 | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii) | Medium | `Backtracking` `Hash Table` `String` |
 | 0396 | [Rotate Function](https://leetcode.com/problems/rotate-function) | Medium | `Array` `Dynamic Programming` `Math` |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | `Array` `Hash Table` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
