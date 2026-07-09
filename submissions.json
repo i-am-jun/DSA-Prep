@@ -937,6 +937,13 @@
     "skills": []
   },
   {
+    "id": 2626,
+    "title": "Array Reduce Transformation",
+    "title_slug": "array-reduce-transformation",
+    "difficulty": "Easy",
+    "skills": []
+  },
+  {
     "id": 2634,
     "title": "Filter Elements from Array",
     "title_slug": "filter-elements-from-array",
