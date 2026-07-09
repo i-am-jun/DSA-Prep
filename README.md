@@ -95,6 +95,7 @@
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | Easy | `Array` `Prefix Sum` |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | Easy |  |
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | Easy |  |
+| 2629 | [Function Composition](https://leetcode.com/problems/function-composition) | Easy |  |
 | 2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array) | Easy |  |
 | 2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array) | Easy |  |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | Medium | `Array` `Bit Manipulation` `Hash Table` |
