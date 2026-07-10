@@ -1135,6 +1135,22 @@
     ]
   },
   {
+    "id": 3534,
+    "title": "Path Existence Queries in a Graph II",
+    "title_slug": "path-existence-queries-in-a-graph-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Dynamic Programming",
+      "Graph Theory",
+      "Greedy",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3558,
     "title": "Number of Ways to Assign Edge Weights I",
     "title_slug": "number-of-ways-to-assign-edge-weights-i",

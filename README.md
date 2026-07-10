@@ -114,6 +114,7 @@
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid) | Medium | `Array` `Breadth-First Search` `Graph Theory` `Heap (Priority Queue)` `Matrix` `Shortest Path` |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | Easy | `Array` `Math` |
 | 3532 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i) | Medium | `Array` `Binary Search` `Graph Theory` `Hash Table` `Union-Find` |
+| 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii) | Hard | `Array` `Binary Search` `Bit Manipulation` `Dynamic Programming` `Graph Theory` `Greedy` `Sorting` `Two Pointers` |
 | 3558 | [Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i) | Medium | `Depth-First Search` `Math` `Tree` |
 | 3559 | [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii) | Hard | `Array` `Bit Manipulation` `Depth-First Search` `Dynamic Programming` `Math` `Tree` |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i) | Medium | `Simulation` `String` |
