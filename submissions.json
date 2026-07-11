@@ -990,6 +990,18 @@
     "skills": []
   },
   {
+    "id": 2685,
+    "title": "Count the Number of Complete Components",
+    "title_slug": "count-the-number-of-complete-components",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 2704,
     "title": "To Be Or Not To Be",
     "title_slug": "to-be-or-not-to-be",
