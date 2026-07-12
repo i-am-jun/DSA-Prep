@@ -57,6 +57,7 @@
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals) | Medium | `Array` `Sorting` |
 | 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score) | Hard | `Array` `Dynamic Programming` `Matrix` |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii) | Medium | `Array` `Breadth-First Search` `Depth-First Search` |
+| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array) | Easy | `Array` `Hash Table` `Sorting` |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v) | Hard | `Array` `Dynamic Programming` `Sorting` |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | Medium | `Math` |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv) | Hard | `Array` `Breadth-First Search` `Hash Table` |

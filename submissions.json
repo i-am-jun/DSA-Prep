@@ -536,6 +536,17 @@
     ]
   },
   {
+    "id": 1331,
+    "title": "Rank Transform of an Array",
+    "title_slug": "rank-transform-of-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1340,
     "title": "Jump Game V",
     "title_slug": "jump-game-v",
