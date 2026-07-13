@@ -514,6 +514,15 @@
     ]
   },
   {
+    "id": 1291,
+    "title": "Sequential Digits",
+    "title_slug": "sequential-digits",
+    "difficulty": "Medium",
+    "skills": [
+      "Enumeration"
+    ]
+  },
+  {
     "id": 1301,
     "title": "Number of Paths with Max Score",
     "title_slug": "number-of-paths-with-max-score",
