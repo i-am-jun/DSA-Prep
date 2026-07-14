@@ -1154,6 +1154,18 @@
     ]
   },
   {
+    "id": 3336,
+    "title": "Find the Number of Subsequences With Equal GCD",
+    "title_slug": "find-the-number-of-subsequences-with-equal-gcd",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 3532,
     "title": "Path Existence Queries in a Graph I",
     "title_slug": "path-existence-queries-in-a-graph-i",

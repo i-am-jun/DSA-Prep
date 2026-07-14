@@ -116,6 +116,7 @@
 | 3161 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries) | Hard | `Array` `Binary Indexed Tree` `Binary Search` `Segment Tree` |
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid) | Medium | `Array` `Breadth-First Search` `Graph Theory` `Heap (Priority Queue)` `Matrix` `Shortest Path` |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | Easy | `Array` `Math` |
+| 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd) | Hard | `Array` `Dynamic Programming` `Math` `Number Theory` |
 | 3532 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i) | Medium | `Array` `Binary Search` `Graph Theory` `Hash Table` `Union-Find` |
 | 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii) | Hard | `Array` `Binary Search` `Bit Manipulation` `Dynamic Programming` `Graph Theory` `Greedy` `Sorting` `Two Pointers` |
 | 3558 | [Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i) | Medium | `Depth-First Search` `Math` `Tree` |
