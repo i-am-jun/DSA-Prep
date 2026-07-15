@@ -328,6 +328,17 @@
     ]
   },
   {
+    "id": 320,
+    "title": "Generalized Abbreviation",
+    "title_slug": "generalized-abbreviation",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Bit Manipulation",
+      "String"
+    ]
+  },
+  {
     "id": 387,
     "title": "First Unique Character in a String",
     "title_slug": "first-unique-character-in-a-string",

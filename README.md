@@ -37,6 +37,7 @@
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | `Math` `Number Theory` `Simulation` |
 | 0288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation) | Medium | `Array` `Design` `Hash Table` `String` |
 | 0291 | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii) | Medium | `Backtracking` `Hash Table` `String` |
+| 0320 | [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation) | Medium | `Backtracking` `Bit Manipulation` `String` |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | `Counting` `Hash Table` `Queue` `String` |
 | 0396 | [Rotate Function](https://leetcode.com/problems/rotate-function) | Medium | `Array` `Dynamic Programming` `Math` |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | `Array` `Hash Table` |
