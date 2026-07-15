@@ -883,6 +883,16 @@
     ]
   },
   {
+    "id": 2114,
+    "title": "Maximum Number of Words Found in Sentences",
+    "title_slug": "maximum-number-of-words-found-in-sentences",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
+  },
+  {
     "id": 2126,
     "title": "Destroying Asteroids",
     "title_slug": "destroying-asteroids",
