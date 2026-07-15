@@ -147,3 +147,4 @@
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | Easy | `Math` |
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii) | Medium | `Math` `Prefix Sum` `String` |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping) | Easy | `Array` `Simulation` `String` |
+| 3991 | [Sort Array Using Prefix Reversals](https://leetcode.com/problems/sort-array-using-prefix-reversals) | Medium |  |
