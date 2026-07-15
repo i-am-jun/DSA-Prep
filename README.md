@@ -127,6 +127,7 @@
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation) | Medium | `Array` `Breadth-First Search` `Hash Table` `Math` `Number Theory` |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i) | Easy | `Array` `Binary Search` `Greedy` `Sorting` `Two Pointers` |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii) | Medium | `Array` `Binary Search` `Greedy` `Sorting` `Two Pointers` |
+| 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | Easy | `Math` `Number Theory` |
 | 3660 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix) | Medium | `Array` `Dynamic Programming` |
 | 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i) | Medium | `Array` `Greedy` |
 | 3691 | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii) | Hard | `Array` `Greedy` `Heap (Priority Queue)` `Segment Tree` |
