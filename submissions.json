@@ -961,6 +961,15 @@
     ]
   },
   {
+    "id": 2520,
+    "title": "Count the Digits That Divide a Number",
+    "title_slug": "count-the-digits-that-divide-a-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2540,
     "title": "Minimum Common Value",
     "title_slug": "minimum-common-value",
