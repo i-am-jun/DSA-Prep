@@ -76,6 +76,7 @@
 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) | Easy | `Array` `Queue` `Simulation` `Stack` |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy | `Array` `Prefix Sum` |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
+| 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | Easy | `Hash Table` `String` |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) | Medium | `Array` `Counting Sort` `Greedy` `Sorting` |
 | 1840 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height) | Hard | `Array` `Math` `Sorting` |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging) | Medium | `Array` `Greedy` `Sorting` |

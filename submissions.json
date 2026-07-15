@@ -742,6 +742,16 @@
     ]
   },
   {
+    "id": 1832,
+    "title": "Check if the Sentence Is Pangram",
+    "title_slug": "check-if-the-sentence-is-pangram",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1833,
     "title": "Maximum Ice Cream Bars",
     "title_slug": "maximum-ice-cream-bars",
