@@ -294,6 +294,17 @@
     ]
   },
   {
+    "id": 258,
+    "title": "Add Digits",
+    "title_slug": "add-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Number Theory",
+      "Simulation"
+    ]
+  },
+  {
     "id": 288,
     "title": "Unique Word Abbreviation",
     "title_slug": "unique-word-abbreviation",
