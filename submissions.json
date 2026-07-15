@@ -1087,6 +1087,18 @@
     ]
   },
   {
+    "id": 2974,
+    "title": "Minimum Number Game",
+    "title_slug": "minimum-number-game",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Simulation",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3020,
     "title": "Find the Maximum Number of Elements in Subset",
     "title_slug": "find-the-maximum-number-of-elements-in-subset",
