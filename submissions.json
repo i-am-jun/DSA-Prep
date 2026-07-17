@@ -1238,6 +1238,22 @@
     ]
   },
   {
+    "id": 3312,
+    "title": "Sorted GCD Pair Queries",
+    "title_slug": "sorted-gcd-pair-queries",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Combinatorics",
+      "Counting",
+      "Hash Table",
+      "Math",
+      "Number Theory",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3336,
     "title": "Find the Number of Subsequences With Equal GCD",
     "title_slug": "find-the-number-of-subsequences-with-equal-gcd",
