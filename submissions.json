@@ -526,6 +526,18 @@
     ]
   },
   {
+    "id": 1081,
+    "title": "Smallest Subsequence of Distinct Characters",
+    "title_slug": "smallest-subsequence-of-distinct-characters",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Monotonic Stack",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1189,
     "title": "Maximum Number of Balloons",
     "title_slug": "maximum-number-of-balloons",
