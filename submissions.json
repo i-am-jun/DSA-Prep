@@ -872,6 +872,17 @@
     ]
   },
   {
+    "id": 1979,
+    "title": "Find Greatest Common Divisor of Array",
+    "title_slug": "find-greatest-common-divisor-of-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 2061,
     "title": "Number of Spaces Cleaning Robot Cleaned",
     "title_slug": "number-of-spaces-cleaning-robot-cleaned",

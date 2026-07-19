@@ -88,6 +88,7 @@
 | 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid) | Medium | `Array` `Matrix` `Simulation` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | Easy | `Array` `String` |
+| 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | Easy | `Array` `Math` `Number Theory` |
 | 2061 | [Number of Spaces Cleaning Robot Cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned) | Medium | `Array` `Matrix` `Simulation` |
 | 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets) | Easy | `Array` `Queue` `Simulation` |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | Medium | `Linked List` `Two Pointers` |
