@@ -360,6 +360,22 @@
     ]
   },
   {
+    "id": 347,
+    "title": "Top K Frequent Elements",
+    "title_slug": "top-k-frequent-elements",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bucket Sort",
+      "Counting",
+      "Divide and Conquer",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Quickselect",
+      "Sorting"
+    ]
+  },
+  {
     "id": 387,
     "title": "First Unique Character in a String",
     "title_slug": "first-unique-character-in-a-string",
