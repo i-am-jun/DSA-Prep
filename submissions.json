@@ -1300,6 +1300,16 @@
     ]
   },
   {
+    "id": 3499,
+    "title": "Maximize Active Section with Trade I",
+    "title_slug": "maximize-active-section-with-trade-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Enumeration",
+      "String"
+    ]
+  },
+  {
     "id": 3532,
     "title": "Path Existence Queries in a Graph I",
     "title_slug": "path-existence-queries-in-a-graph-i",
