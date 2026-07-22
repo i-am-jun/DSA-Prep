@@ -4,7 +4,12 @@
  * @return {number[]}
  */
 var shuffle = function(nums, n) {
-    const slicedArr = nums.splice(n);
-    const mergedArr = nums.flatMap((val, i)=> [val, slicedArr[i]]);
-    return mergedArr;
+    const arr1 = nums.slice(0,n);
+    const arr2 = nums.slice(n);
+    const output =  [];
+    for(let itr in arr1){
+        output.push(arr1[itr]);
+        output.push(arr2[itr]);
+    }
+    return output;
 };
