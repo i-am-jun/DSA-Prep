@@ -1359,6 +1359,18 @@
     ]
   },
   {
+    "id": 3501,
+    "title": "Maximize Active Section with Trade II",
+    "title_slug": "maximize-active-section-with-trade-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Segment Tree",
+      "String"
+    ]
+  },
+  {
     "id": 3532,
     "title": "Path Existence Queries in a Graph I",
     "title_slug": "path-existence-queries-in-a-graph-i",
