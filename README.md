@@ -36,6 +36,7 @@
 | 0154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | Hard | `Array` `Binary Search` |
 | 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | Easy | `Database` |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | `Design` `Queue` `Stack` |
+| 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | `Array` `Prefix Sum` |
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | `Math` `Number Theory` `Simulation` |
 | 0288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation) | Medium | `Array` `Design` `Hash Table` `String` |
 | 0291 | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii) | Medium | `Backtracking` `Hash Table` `String` |
