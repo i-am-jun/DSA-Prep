@@ -264,6 +264,17 @@
     ]
   },
   {
+    "id": 128,
+    "title": "Longest Consecutive Sequence",
+    "title_slug": "longest-consecutive-sequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 150,
     "title": "Evaluate Reverse Polish Notation",
     "title_slug": "evaluate-reverse-polish-notation",
