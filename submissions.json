@@ -347,6 +347,17 @@
     ]
   },
   {
+    "id": 242,
+    "title": "Valid Anagram",
+    "title_slug": "valid-anagram",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 258,
     "title": "Add Digits",
     "title_slug": "add-digits",
