@@ -135,6 +135,7 @@
 | 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd) | Hard | `Array` `Dynamic Programming` `Math` `Number Theory` |
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i) | Medium | `Enumeration` `String` |
 | 3501 | [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii) | Hard | `Array` `Binary Search` `Segment Tree` `String` |
+| 3513 | [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i) | Medium | `Array` `Bit Manipulation` `Math` |
 | 3532 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i) | Medium | `Array` `Binary Search` `Graph Theory` `Hash Table` `Union-Find` |
 | 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii) | Hard | `Array` `Binary Search` `Bit Manipulation` `Dynamic Programming` `Graph Theory` `Greedy` `Sorting` `Two Pointers` |
 | 3558 | [Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i) | Medium | `Depth-First Search` `Math` `Tree` |

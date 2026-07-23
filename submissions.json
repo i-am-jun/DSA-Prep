@@ -1371,6 +1371,17 @@
     ]
   },
   {
+    "id": 3513,
+    "title": "Number of Unique XOR Triplets I",
+    "title_slug": "number-of-unique-xor-triplets-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Math"
+    ]
+  },
+  {
     "id": 3532,
     "title": "Path Existence Queries in a Graph I",
     "title_slug": "path-existence-queries-in-a-graph-i",
