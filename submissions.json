@@ -527,6 +527,19 @@
     ]
   },
   {
+    "id": 758,
+    "title": "Bold Words in String",
+    "title_slug": "bold-words-in-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String",
+      "String Matching",
+      "Trie"
+    ]
+  },
+  {
     "id": 759,
     "title": "Employee Free Time",
     "title_slug": "employee-free-time",

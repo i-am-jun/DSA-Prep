@@ -55,6 +55,7 @@
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | `Array` `Bit Manipulation` `Hash Table` `Sorting` |
 | 0723 | [Candy Crush](https://leetcode.com/problems/candy-crush) | Medium | `Array` `Matrix` `Simulation` `Two Pointers` |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium | `Array` `Monotonic Stack` `Stack` |
+| 0758 | [Bold Words in String](https://leetcode.com/problems/bold-words-in-string) | Medium | `Array` `Hash Table` `String` `String Matching` `Trie` |
 | 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time) | Hard | `Array` `Heap (Priority Queue)` `Sorting` `Sweep Line` |
 | 0788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits) | Medium | `Dynamic Programming` `Math` |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | `String` `String Matching` |
