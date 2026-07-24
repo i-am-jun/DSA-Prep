@@ -316,6 +316,17 @@
     ]
   },
   {
+    "id": 167,
+    "title": "Two Sum II - Input Array Is Sorted",
+    "title_slug": "two-sum-ii-input-array-is-sorted",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 175,
     "title": "Combine Two Tables",
     "title_slug": "combine-two-tables",

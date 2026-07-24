@@ -1,0 +1,24 @@
+/**
+ * @param {number[]} numbers
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(numbers, target) {
+   //using two pointers
+   let i = 0;
+   let j = numbers.length - 1;
+
+   while(i < j){
+    if((numbers[i] + numbers [j]) < target){
+        i++;
+    }
+    else if((numbers[i] + numbers [j]) > target){
+        j--;
+    }else{
+        return [i + 1, j + 1]
+    }
+
+   }
+   
+    return [0,0]
+};
