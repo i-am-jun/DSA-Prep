@@ -1490,6 +1490,16 @@
     ]
   },
   {
+    "id": 3536,
+    "title": "Maximum Product of Two Digits",
+    "title_slug": "maximum-product-of-two-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3558,
     "title": "Number of Ways to Assign Edge Weights I",
     "title_slug": "number-of-ways-to-assign-edge-weights-i",
