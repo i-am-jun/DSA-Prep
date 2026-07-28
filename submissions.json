@@ -1483,6 +1483,17 @@
     ]
   },
   {
+    "id": 3517,
+    "title": "Smallest Palindromic Rearrangement I",
+    "title_slug": "smallest-palindromic-rearrangement-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting Sort",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 3532,
     "title": "Path Existence Queries in a Graph I",
     "title_slug": "path-existence-queries-in-a-graph-i",
