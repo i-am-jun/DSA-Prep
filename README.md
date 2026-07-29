@@ -148,6 +148,7 @@
 | 3513 | [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i) | Medium | `Array` `Bit Manipulation` `Math` |
 | 3514 | [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii) | Medium | `Array` `Bit Manipulation` `Enumeration` `Math` |
 | 3517 | [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i) | Medium | `Counting Sort` `Sorting` `String` |
+| 3518 | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii) | Hard | `Combinatorics` `Counting` `Hash Table` `Math` `String` |
 | 3532 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i) | Medium | `Array` `Binary Search` `Graph Theory` `Hash Table` `Union-Find` |
 | 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii) | Hard | `Array` `Binary Search` `Bit Manipulation` `Dynamic Programming` `Graph Theory` `Greedy` `Sorting` `Two Pointers` |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | Easy | `Math` `Sorting` |
