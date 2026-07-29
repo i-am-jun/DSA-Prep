@@ -988,6 +988,18 @@
     ]
   },
   {
+    "id": 1858,
+    "title": "Longest Word With All Prefixes",
+    "title_slug": "longest-word-with-all-prefixes",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Depth-First Search",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 1861,
     "title": "Rotating the Box",
     "title_slug": "rotating-the-box",
