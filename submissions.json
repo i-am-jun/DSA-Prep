@@ -1353,6 +1353,17 @@
     ]
   },
   {
+    "id": 3014,
+    "title": "Minimum Number of Pushes to Type Word I",
+    "title_slug": "minimum-number-of-pushes-to-type-word-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 3020,
     "title": "Find the Maximum Number of Elements in Subset",
     "title_slug": "find-the-maximum-number-of-elements-in-subset",
