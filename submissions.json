@@ -368,6 +368,18 @@
     ]
   },
   {
+    "id": 209,
+    "title": "Minimum Size Subarray Sum",
+    "title_slug": "minimum-size-subarray-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Prefix Sum",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 217,
     "title": "Contains Duplicate",
     "title_slug": "contains-duplicate",
