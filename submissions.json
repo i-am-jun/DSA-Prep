@@ -1361,6 +1361,13 @@
     ]
   },
   {
+    "id": 2796,
+    "title": "Repeat String",
+    "title_slug": "repeat-string",
+    "difficulty": "Easy",
+    "skills": []
+  },
+  {
     "id": 2812,
     "title": "Find the Safest Path in a Grid",
     "title_slug": "find-the-safest-path-in-a-grid",
