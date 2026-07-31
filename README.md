@@ -53,6 +53,7 @@
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | `Array` `Bucket Sort` `Counting` `Divide and Conquer` `Hash Table` `Heap (Priority Queue)` `Quickselect` `Sorting` |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | `Counting` `Hash Table` `Queue` `String` |
 | 0396 | [Rotate Function](https://leetcode.com/problems/rotate-function) | Medium | `Array` `Dynamic Programming` `Math` |
+| 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | `Hash Table` `Sliding Window` `String` |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | `Array` `Hash Table` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
 | 0489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner) | Hard | `Backtracking` `Interactive` |
