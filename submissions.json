@@ -561,6 +561,19 @@
     ]
   },
   {
+    "id": 486,
+    "title": "Predict the Winner",
+    "title_slug": "predict-the-winner",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Game Theory",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 489,
     "title": "Robot Room Cleaner",
     "title_slug": "robot-room-cleaner",

@@ -58,6 +58,7 @@
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | `Hash Table` `Sliding Window` `String` |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | `Array` `Hash Table` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
+| 0486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner) | Medium | `Array` `Dynamic Programming` `Game Theory` `Math` `Recursion` |
 | 0489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner) | Hard | `Backtracking` `Interactive` |
 | 0628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | Easy | `Array` `Math` `Sorting` |
 | 0636 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) | Medium | `Array` `Stack` |
