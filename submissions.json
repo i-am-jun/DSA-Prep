@@ -685,6 +685,18 @@
     ]
   },
   {
+    "id": 877,
+    "title": "Stone Game",
+    "title_slug": "stone-game",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Game Theory",
+      "Math"
+    ]
+  },
+  {
     "id": 941,
     "title": "Valid Mountain Array",
     "title_slug": "valid-mountain-array",

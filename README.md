@@ -69,6 +69,7 @@
 | 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time) | Hard | `Array` `Heap (Priority Queue)` `Sorting` `Sweep Line` |
 | 0788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits) | Medium | `Dynamic Programming` `Math` |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | `String` `String Matching` |
+| 0877 | [Stone Game](https://leetcode.com/problems/stone-game) | Medium | `Array` `Dynamic Programming` `Game Theory` `Math` |
 | 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | Easy | `Array` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
 | 1056 | [Confusing Number](https://leetcode.com/problems/confusing-number) | Easy | `Math` |
