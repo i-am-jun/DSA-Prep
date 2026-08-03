@@ -89,6 +89,7 @@
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv) | Hard | `Array` `Breadth-First Search` `Hash Table` |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | Medium | `Hash Table` `Sliding Window` `String` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | `Array` `Counting Sort` `Hash Table` `Sorting` |
+| 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii) | Hard | `Array` `Dynamic Programming` `Game Theory` `Math` |
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations) | Medium | `Array` `Simulation` `Stack` |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy | `Array` |

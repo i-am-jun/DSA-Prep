@@ -896,6 +896,18 @@
     ]
   },
   {
+    "id": 1406,
+    "title": "Stone Game III",
+    "title_slug": "stone-game-iii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Game Theory",
+      "Math"
+    ]
+  },
+  {
     "id": 1441,
     "title": "Build an Array With Stack Operations",
     "title_slug": "build-an-array-with-stack-operations",
