@@ -189,3 +189,4 @@
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping) | Easy | `Array` `Simulation` `String` |
 | 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs) | Medium | `Array` `Math` `Number Theory` `Simulation` `Sorting` `Two Pointers` |
 | 3991 | [Sort Array Using Prefix Reversals](https://leetcode.com/problems/sort-array-using-prefix-reversals) | Medium |  |
+| 4006 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes) | Easy |  |

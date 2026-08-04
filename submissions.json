@@ -1987,5 +1987,12 @@
     "title_slug": "sort-array-using-prefix-reversals",
     "difficulty": "Medium",
     "skills": []
+  },
+  {
+    "id": 4006,
+    "title": "Count Valid Prefixes",
+    "title_slug": "count-valid-prefixes",
+    "difficulty": "Easy",
+    "skills": []
   }
 ]
