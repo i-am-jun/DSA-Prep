@@ -149,6 +149,7 @@
 | 3093 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries) | Hard | `Array` `String` `Trie` |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | Easy | `Hash Table` `String` |
 | 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii) | Medium | `Hash Table` `String` |
+| 3136 | [Valid Word](https://leetcode.com/problems/valid-word) | Easy | `String` |
 | 3161 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries) | Hard | `Array` `Binary Indexed Tree` `Binary Search` `Segment Tree` |
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid) | Medium | `Array` `Breadth-First Search` `Graph Theory` `Heap (Priority Queue)` `Matrix` `Shortest Path` |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | Easy | `Array` `Math` |
