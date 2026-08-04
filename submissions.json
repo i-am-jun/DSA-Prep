@@ -1855,6 +1855,17 @@
     ]
   },
   {
+    "id": 3731,
+    "title": "Find Missing Elements",
+    "title_slug": "find-missing-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3737,
     "title": "Count Subarrays With Majority Element I",
     "title_slug": "count-subarrays-with-majority-element-i",
