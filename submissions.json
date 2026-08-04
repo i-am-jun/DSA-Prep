@@ -1390,6 +1390,18 @@
     "skills": []
   },
   {
+    "id": 2744,
+    "title": "Find Maximum Number of String Pairs",
+    "title_slug": "find-maximum-number-of-string-pairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 2770,
     "title": "Maximum Number of Jumps to Reach the Last Index",
     "title_slug": "maximum-number-of-jumps-to-reach-the-last-index",
