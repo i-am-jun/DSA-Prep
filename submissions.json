@@ -1579,6 +1579,17 @@
     ]
   },
   {
+    "id": 3310,
+    "title": "Remove Methods From Project",
+    "title_slug": "remove-methods-from-project",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory"
+    ]
+  },
+  {
     "id": 3312,
     "title": "Sorted GCD Pair Queries",
     "title_slug": "sorted-gcd-pair-queries",
