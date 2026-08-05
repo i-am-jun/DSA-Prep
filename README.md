@@ -77,6 +77,7 @@
 | 1064 | [Fixed Point](https://leetcode.com/problems/fixed-point) | Easy | `Array` `Binary Search` |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | Medium | `Greedy` `Monotonic Stack` `Stack` `String` |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | Easy | `Counting` `Hash Table` `String` |
+| 1199 | [Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks) | Hard | `Array` `Greedy` `Heap (Priority Queue)` `Math` |
 | 1259 | [Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross) | Hard | `Dynamic Programming` `Math` |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid) | Easy | `Array` `Matrix` `Simulation` |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals) | Medium | `Array` `Sorting` |

@@ -769,6 +769,18 @@
     ]
   },
   {
+    "id": 1199,
+    "title": "Minimum Time to Build Blocks",
+    "title_slug": "minimum-time-to-build-blocks",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Math"
+    ]
+  },
+  {
     "id": 1259,
     "title": "Handshakes That Don't Cross",
     "title_slug": "handshakes-that-dont-cross",
