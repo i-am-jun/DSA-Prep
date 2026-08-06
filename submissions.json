@@ -1630,6 +1630,16 @@
     ]
   },
   {
+    "id": 3345,
+    "title": "Smallest Divisible Digit Product I",
+    "title_slug": "smallest-divisible-digit-product-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Enumeration",
+      "Math"
+    ]
+  },
+  {
     "id": 3499,
     "title": "Maximize Active Section with Trade I",
     "title_slug": "maximize-active-section-with-trade-i",
