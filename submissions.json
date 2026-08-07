@@ -1640,6 +1640,19 @@
     ]
   },
   {
+    "id": 3348,
+    "title": "Smallest Divisible Digit Product II",
+    "title_slug": "smallest-divisible-digit-product-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Backtracking",
+      "Greedy",
+      "Math",
+      "Number Theory",
+      "String"
+    ]
+  },
+  {
     "id": 3499,
     "title": "Maximize Active Section with Trade I",
     "title_slug": "maximize-active-section-with-trade-i",

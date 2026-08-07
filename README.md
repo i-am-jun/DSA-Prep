@@ -159,6 +159,7 @@
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries) | Hard | `Array` `Binary Search` `Combinatorics` `Counting` `Hash Table` `Math` `Number Theory` `Prefix Sum` |
 | 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd) | Hard | `Array` `Dynamic Programming` `Math` `Number Theory` |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i) | Easy | `Enumeration` `Math` |
+| 3348 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii) | Hard | `Backtracking` `Greedy` `Math` `Number Theory` `String` |
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i) | Medium | `Enumeration` `String` |
 | 3501 | [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii) | Hard | `Array` `Binary Search` `Segment Tree` `String` |
 | 3513 | [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i) | Medium | `Array` `Bit Manipulation` `Math` |
