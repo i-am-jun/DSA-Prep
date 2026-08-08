@@ -155,6 +155,7 @@
 | 3161 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries) | Hard | `Array` `Binary Indexed Tree` `Binary Search` `Segment Tree` |
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid) | Medium | `Array` `Breadth-First Search` `Graph Theory` `Heap (Priority Queue)` `Matrix` `Shortest Path` |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | Easy | `Array` `Math` |
+| 3302 | [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence) | Medium | `Dynamic Programming` `Greedy` `String` `Two Pointers` |
 | 3310 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` |
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries) | Hard | `Array` `Binary Search` `Combinatorics` `Counting` `Hash Table` `Math` `Number Theory` `Prefix Sum` |
 | 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd) | Hard | `Array` `Dynamic Programming` `Math` `Number Theory` |

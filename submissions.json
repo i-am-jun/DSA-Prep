@@ -1591,6 +1591,18 @@
     ]
   },
   {
+    "id": 3302,
+    "title": "Find the Lexicographically Smallest Valid Sequence",
+    "title_slug": "find-the-lexicographically-smallest-valid-sequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Greedy",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3310,
     "title": "Remove Methods From Project",
     "title_slug": "remove-methods-from-project",
