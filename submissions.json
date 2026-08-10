@@ -758,6 +758,21 @@
     ]
   },
   {
+    "id": 1140,
+    "title": "Stone Game II",
+    "title_slug": "stone-game-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Game Theory",
+      "Math",
+      "Minimax",
+      "Prefix Sum",
+      "Zero-Sum Game"
+    ]
+  },
+  {
     "id": 1189,
     "title": "Maximum Number of Balloons",
     "title_slug": "maximum-number-of-balloons",

@@ -76,6 +76,7 @@
 | 1063 | [Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays) | Hard | `Array` `Monotonic Stack` `Stack` |
 | 1064 | [Fixed Point](https://leetcode.com/problems/fixed-point) | Easy | `Array` `Binary Search` |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | Medium | `Greedy` `Monotonic Stack` `Stack` `String` |
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii) | Medium | `Array` `Dynamic Programming` `Game Theory` `Math` `Minimax` `Prefix Sum` `Zero-Sum Game` |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | Easy | `Counting` `Hash Table` `String` |
 | 1199 | [Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks) | Hard | `Array` `Greedy` `Heap (Priority Queue)` `Math` |
 | 1259 | [Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross) | Hard | `Dynamic Programming` `Math` |
