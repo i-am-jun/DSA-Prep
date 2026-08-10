@@ -1002,6 +1002,21 @@
     ]
   },
   {
+    "id": 1510,
+    "title": "Stone Game IV",
+    "title_slug": "stone-game-iv",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Game Theory",
+      "Math",
+      "Minimax",
+      "Nim Game",
+      "Sprague–Grundy Theorem",
+      "Zero-Sum Game"
+    ]
+  },
+  {
     "id": 1665,
     "title": "Minimum Initial Energy to Finish Tasks",
     "title_slug": "minimum-initial-energy-to-finish-tasks",
