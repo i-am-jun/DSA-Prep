@@ -1498,6 +1498,17 @@
     ]
   },
   {
+    "id": 2996,
+    "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+    "title_slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3014,
     "title": "Minimum Number of Pushes to Type Word I",
     "title_slug": "minimum-number-of-pushes-to-type-word-i",
