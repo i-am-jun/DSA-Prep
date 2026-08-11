@@ -79,6 +79,7 @@
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii) | Medium | `Array` `Dynamic Programming` `Game Theory` `Math` `Minimax` `Prefix Sum` `Zero-Sum Game` |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | Easy | `Counting` `Hash Table` `String` |
 | 1199 | [Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks) | Hard | `Array` `Greedy` `Heap (Priority Queue)` `Math` |
+| 1257 | [Smallest Common Region](https://leetcode.com/problems/smallest-common-region) | Medium | `Array` `Binary Lifting` `Breadth-First Search` `Depth-First Search` `Hash Table` `Lowest Common Ancestor` `String` `Tree` |
 | 1259 | [Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross) | Hard | `Dynamic Programming` `Math` |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid) | Easy | `Array` `Matrix` `Simulation` |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals) | Medium | `Array` `Sorting` |

@@ -796,6 +796,22 @@
     ]
   },
   {
+    "id": 1257,
+    "title": "Smallest Common Region",
+    "title_slug": "smallest-common-region",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Lifting",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Hash Table",
+      "Lowest Common Ancestor",
+      "String",
+      "Tree"
+    ]
+  },
+  {
     "id": 1259,
     "title": "Handshakes That Don't Cross",
     "title_slug": "handshakes-that-dont-cross",
