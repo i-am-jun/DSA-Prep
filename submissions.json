@@ -1502,6 +1502,17 @@
     ]
   },
   {
+    "id": 2958,
+    "title": "Length of Longest Subarray With at Most K Frequency",
+    "title_slug": "length-of-longest-subarray-with-at-most-k-frequency",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2974,
     "title": "Minimum Number Game",
     "title_slug": "minimum-number-game",
